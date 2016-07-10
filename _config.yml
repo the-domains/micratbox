@@ -1,0 +1,14 @@
+layout_spectrum: 0.3194995289668441
+typography_spectrum: 0.648295687045902
+color:
+  brandStrength: 0.664870104053989
+  lightness: 0.531262366566807
+  saturation: 0.6204108551610261
+  rhythmicContrast: 0.08625151193700731
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: MicRatBox
